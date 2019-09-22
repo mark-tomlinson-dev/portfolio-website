@@ -55,7 +55,7 @@ The final feature of the portfolio is a contact page. Here, users can easily get
 
 ## Screenshots
 
-It took longer than expected to hit on a theme that I was happy with. The design and feel of the site went through many iterations: 
+It took longer than expected to hit on a theme that I was happy with. The design and feel of the site went through many iterations...
 
 ![progress1](./progress-images/skills-cards-in-progress.png)
 ![progress2](./progress-images/about-me-in-progress.png)
@@ -63,10 +63,15 @@ It took longer than expected to hit on a theme that I was happy with. The design
 ![progress4](./progress-images/about-me-in-progress-2.png)
 ![progress5](./progress-images/home-in-progress.png)
 ![progress6](./progress-images/skills-in-progress2.png)
+
+Getting there...
+
 ![progress7](./progress-images/blog-coming-along.png)
 ![progress8](./progress-images/testing-colours.png)
 
+And we're live!
 
+![progress9](.progress-images/live.png)
 
 ## Target Audience
 
