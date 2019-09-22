@@ -51,32 +51,38 @@ The final feature of the portfolio is a contact page. Here, users can easily get
 
 ## Sitemap 
 
-![Sitemap](./sitemap.png)
+![Sitemap](./docs/sitemap.png)
 
 ## Screenshots
 
 It took longer than expected to hit on a theme that I was happy with. The design and feel of the site went through many iterations...
 
-![progress1](./progress-images/skills-cards-in-progress.png)
-![progress2](./progress-images/about-me-in-progress.png)
-![progress3](./progress-images/blog-in-progress.png)
-![progress4](./progress-images/about-me-in-progress-2.png)
-![progress5](./progress-images/home-in-progress.png)
-![progress6](./progress-images/skills-in-progress2.png)
+![progress1](./docs/skills-cards-in-progress.png)
+![progress2](./docs/about-me-in-progress.png)
+![progress3](./docs/blog-in-progress.png)
+![progress4](./docs/about-me-in-progress-2.png)
+![progress5](./docs/home-in-progress.png)
+![progress6](./docs/skills-in-progress2.png)
+
+It was necessary to do some wireframing...
+
+![progress7](./docs/wireframe-1.png)
+![progress8](./docs/wireframe-2.png)
+
 
 Getting there...
 
-![progress7](./progress-images/blog-coming-along.png)
-![progress8](./progress-images/testing-colours.png)
+![progress9](./docs/blog-coming-along.png)
+![progress10](./docs/testing-colours.png)
 
 And we're live!
 
-![progress9](./progress-images/live.png)
-![progress10](./progress-images/final-about.png)
-![progress11](./progress-images/final-skills-1.png)
-![progress12](./progress-images/final-skills-2.png)
-![progress13](./progress-images/final-blog.png)
-![progress14](./progress-images/final-contact.png)
+![progress11](./docs/live.png)
+![progress12](./docs/final-about.png)
+![progress13](./docs/final-skills-1.png)
+![progress14](./docs/final-skills-2.png)
+![progress15](./docs/final-blog.png)
+![progress16](./docs/final-contact.png)
 
 ## Target Audience
 
