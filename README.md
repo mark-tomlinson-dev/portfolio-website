@@ -57,7 +57,7 @@ The final feature of the portfolio is a contact page. Here, users can easily get
 
 It took longer than expected to hit on a theme that I was happy with. The design and feel of the site went through many iterations: 
 
-![progress1](./skills-cards-in-progress.png)
+![progress1](./progress-images/skills-cards-in-progress.png)
 ![progress2](./about-me-in-progress.png)
 ![progress3](./blog-in-process.png)
 ![progress4](./about-me-in-progress-2.png)
