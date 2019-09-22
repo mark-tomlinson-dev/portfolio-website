@@ -71,7 +71,7 @@ Getting there...
 
 And we're live!
 
-![progress9](.progress-images/live.png)
+![progress9](./progress-images/live.png)
 
 ## Target Audience
 
