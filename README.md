@@ -10,7 +10,11 @@ GitHub: https://github.com/mark-tomlinson-dev/portfolio-website
 
 Contributor: https://github.com/mark-tomlinson-dev
 
+Check out my dribbble inspiration here:
+
 https://dribbble.com/marktomlinson/buckets/1520750-portfolio
+
+Check out my mood board here:
 
 https://www.pinterest.com.au/markt2591/ca-portfolio/
 
@@ -51,7 +55,16 @@ The final feature of the portfolio is a contact page. Here, users can easily get
 
 ## Screenshots
 
-![progress1](../progress-images/)
+It took longer than expected to hit on a theme that I was happy with. The design and feel of the site went through many iterations: 
+
+![progress1](../progress-images/skills-cards-in-progress.png)
+![progress2](../progress-images/about-me-in-progress.png)
+![progress3](../progress-images/blog-in-process.png)
+![progress4](../progress-images/about-me-in-progress-2.png)
+![progress5](../progress-images/home-in-progress.png)
+![progress6](../progress-images/skills-in-progress2.png)
+![progress7](../progress-images/blog-coming-along.png)
+![progress8](..progress-images/testing-colours.png)
 
 
 
