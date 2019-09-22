@@ -1,0 +1,80 @@
+
+.skills-container {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	left: 40%;
+	top: 20%;	
+}
+
+.skills-card {
+	display: block;
+	width: 300px;
+	height: 400px;
+	position: absolute;
+	box-shadow: 10px 10px 20px rgba(0,0,0,.5);
+	top: 0;
+	left: 0;
+	transform-origin: bottom center;
+	transform: rotate(10deg) skew(15deg);
+	transition: .6s ease-out;
+	border-radius: 5px;
+}
+
+.skills-card h1 {
+	text-align: center;
+	font-size: 2em;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+}
+
+.skills-card p {
+	text-align: center;
+	z-index: 3;
+}
+
+
+#other {
+	background: #bae6e5;
+}
+
+#front-end {
+	background: #efd3e4;
+}
+
+#back-end {
+	background: #e6caec;
+}
+
+
+.skills-card:nth-child(1) {
+	transform: rotate(10deg) skew(-15deg) translate(15px,15px);
+}
+
+.skills-card:nth-child(2) {
+	transform: rotate(10deg) skew(-15deg) translate(0px,0px);
+}
+
+.skills-card:nth-child(3) {
+	transform: rotate(10deg) skew(-15deg) translate(-15px,-15px);
+}
+
+.skills-card:nth-child(4) {
+	transform: rotate(10deg) skew(-15deg) translate(-30px,-30px);
+}
+
+.skills-container:hover .skills-card:nth-child(1) {
+	transform: rotate(5deg) skew(0deg) translate(200px,0);
+}
+
+.skills-container:hover .skills-card:nth-child(2) {
+	transform: rotate(0deg) skew(0deg) translate(0,0);
+}
+
+.skills-container:hover .skills-card:nth-child(3) {
+	transform: rotate(-5deg) skew(0deg) translate(-200px,0);
+}
+
+.skills-container:hover .skills-card:nth-child(4) {
+	transform: rotate(-10deg) skew(0deg) translate(-400px,0);
+}
