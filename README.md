@@ -1,19 +1,23 @@
 # Portfolio
 
-A book search, preview, and save app written in Ruby.
+My website portfolio
 
 ## Links
 
-URL: 
+URL: https://www.marktomlinson.io 
 
-GitHub: 
+GitHub: https://github.com/mark-tomlinson-dev/portfolio-website
 
 Contributor: https://github.com/mark-tomlinson-dev
+
+https://dribbble.com/marktomlinson/buckets/1520750-portfolio
+
+https://www.pinterest.com.au/markt2591/ca-portfolio/
 
 
 ## Description
 
-This personal portfolio website was designed and built over the course of a week as part of the requirements for an assignment through Coder Academy's Fast Track Bootcamp. The website is stable, secure, and responsive. Future iterations will improve upon design and functionality.   
+This personal portfolio website was designed and built over the course of a week as part of the requirements for an assignment through Coder Academy's Fast Track Bootcamp. The website is stable, secure,and partly responsive. Future iterations will improve upon responsiveness, design and functionality.   
 
 
 ## Purpose
@@ -43,12 +47,11 @@ The final feature of the portfolio is a contact page. Here, users can easily get
 
 ## Sitemap 
 
-
-
-
+![Sitemap](./sitemap.png)
 
 ## Screenshots
 
+![progress1](../progress-images/)
 
 
 
