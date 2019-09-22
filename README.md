@@ -58,13 +58,13 @@ The final feature of the portfolio is a contact page. Here, users can easily get
 It took longer than expected to hit on a theme that I was happy with. The design and feel of the site went through many iterations: 
 
 ![progress1](./progress-images/skills-cards-in-progress.png)
-![progress2](./about-me-in-progress.png)
-![progress3](./blog-in-process.png)
-![progress4](./about-me-in-progress-2.png)
-![progress5](./home-in-progress.png)
-![progress6](./skills-in-progress2.png)
-![progress7](./blog-coming-along.png)
-![progress8](./testing-colours.png)
+![progress2](./progress-images/about-me-in-progress.png)
+![progress3](./progress-images/blog-in-process.png)
+![progress4](./progress-images/about-me-in-progress-2.png)
+![progress5](./progress-images/home-in-progress.png)
+![progress6](./progress-images/skills-in-progress2.png)
+![progress7](./progress-images/blog-coming-along.png)
+![progress8](./progress-images/testing-colours.png)
 
 
 
