@@ -59,7 +59,7 @@ It took longer than expected to hit on a theme that I was happy with. The design
 
 ![progress1](./progress-images/skills-cards-in-progress.png)
 ![progress2](./progress-images/about-me-in-progress.png)
-![progress3](./progress-images/blog-in-process.png)
+![progress3](./progress-images/blog-in-progress.png)
 ![progress4](./progress-images/about-me-in-progress-2.png)
 ![progress5](./progress-images/home-in-progress.png)
 ![progress6](./progress-images/skills-in-progress2.png)
@@ -72,6 +72,11 @@ Getting there...
 And we're live!
 
 ![progress9](./progress-images/live.png)
+![progress10](./progress-images/final-about.png)
+![progress11](./progress-images/final-skills-1.png)
+![progress12](./progress-images/final-skills-2.png)
+![progress13](./progress-images/final-blog.png)
+![progress14](./progress-images/final-contact.png)
 
 ## Target Audience
 
